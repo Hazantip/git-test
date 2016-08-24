@@ -1,7 +1,1 @@
-1. DEV branch did that!
-test line
-test line 2
-git amend
-change on dev
-change on dev 2
-new line 3
+0. VIM in DEV was here!
