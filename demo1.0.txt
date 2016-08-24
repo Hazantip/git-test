@@ -1,3 +1,4 @@
 1. DEV branch did that!
 test line
 test line 2
+git amend
