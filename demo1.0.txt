@@ -1,2 +1,2 @@
-0. VIM dev branch!++ MASTEER
-1. new line after all branches rested!
+0. VIM dev branch!++ MASTEER!
+1. dev generate conflict!
